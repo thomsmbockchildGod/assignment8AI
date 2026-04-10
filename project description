@@ -1,0 +1,16 @@
+This project involved selecting suitable data for regression problems. 
+Once the data has been selected, data preparation is very important. This involves handling missing values, duplicate values, and identifying outliers
+After this first step, the next step involves standardizing the columns so that no variable dominates the others and encoding the target variable.
+selecting a supervised machine learning classification model which is the following step, involves:
+Implementation of at least two classification models. 
+Splitting the dataset into training and testing sets.
+Train the models on the training data.
+Evaluating the models on the testing data using appropriate metrics.
+Interpreting the results obtained after evaluation and finally visualized the results.
+The last part of our project mainly covers the deployment and monitoring of the model that performed well on a real environment.
+
+#instructions on how to set up and run the notebook.
+open google colab
+click on file menu < Open New Notebook.
+click on code a cell will appear where the code can be written.
+click on the run button to execute code in each cell.
